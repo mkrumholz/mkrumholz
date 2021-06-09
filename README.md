@@ -9,11 +9,11 @@ I'm a backend developer with experience in process automation and data analysis.
 <section align="center">
   
   <a href="https://github.com/dietza/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkrumholz&show_icons=true&theme=algolia" height="200" width="500"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkrumholz&show_icons=true&theme=tokyonight" height="200" width="500"/>
   </a>
   
   <a href="https://github.com/dietza/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkrumholz&theme=algolia" height="200" width="300"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkrumholz&theme=tokyonight" height="200" width="300"/>
   </a>
   
 </section>
