@@ -2,7 +2,7 @@
 
 I'm a backend developer with a background in data analysis and process automation. My goal is to build mission-driven software that makes the world a smarter place.
 
-Ask me about thruhiking 🎒, ultra-running 🏃🏻‍♀️‍, climbing 🧗🏼‍♀️, splitboarding 🏂, bikepacking 🚴🏼‍♀️, gardening 🌱, or craft cocktail bitters 🥃. 
+Ask me about thruhiking 🎒, ultra-running 🏃🏻‍♀️‍, climbing 🧗🏼‍♀️, splitboarding 🏂, cycling 🚴🏼‍♀️, gardening 🌱, or craft cocktail bitters 🥃. 
 
 <!--
 **mkrumholz/mkrumholz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
