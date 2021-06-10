@@ -38,6 +38,14 @@ Ask me about thruhiking 🎒, ultra-running 🏃🏻‍♀️‍, climbing 🧗�
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
     
 </section>
+
+## Projects
+
+[![](https://img.shields.io/badge/-🔐%20Enigma-000)](https://github.com/mkrumholz/Enigma)
+[![](https://img.shields.io/badge/-🕹%20Battleship-000)](https://github.com/suzkiee/battleship)
+[![](https://img.shields.io/badge/-📉%20BlackThursday-000)](https://github.com/redferret/black_thursday)
+[![](https://img.shields.io/badge/-🕹%20Battleship-000)]()
+[![](https://img.shields.io/badge/-🛍%20LittleRailsShop-000)](https://github.com/LawrenceWhalen/little-esty-shop)
   
 ## Connect With Me
 
@@ -45,21 +53,3 @@ Ask me about thruhiking 🎒, ultra-running 🏃🏻‍♀️‍, climbing 🧗�
   <a href="https://www.linkedin.com/in/mkrumholz/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
   <a href="mailto:krumholz.molly@gmail.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
 </section>
-
-
-
-
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
