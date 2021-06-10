@@ -41,11 +41,11 @@ Ask me about thruhiking 🎒, ultra-running 🏃🏻‍♀️‍, climbing 🧗�
 
 ## Projects
 
-[![](https://img.shields.io/badge/-🔐%20Enigma-000)](https://github.com/mkrumholz/Enigma)
-[![](https://img.shields.io/badge/-🕹%20Battleship-000)](https://github.com/suzkiee/battleship)
-[![](https://img.shields.io/badge/-📉%20BlackThursday-000)](https://github.com/redferret/black_thursday)
-[![](https://img.shields.io/badge/-🕹%20Battleship-000)]()
-[![](https://img.shields.io/badge/-🛍%20LittleRailsShop-000)](https://github.com/LawrenceWhalen/little-esty-shop)
+[![](https://img.shields.io/badge/-🛍%20Little%20Rails%20Shop-000?style=plastic)](https://github.com/LawrenceWhalen/little-esty-shop)<br/>
+[![](https://img.shields.io/badge/-🕹%20Battleship-000?style=plastic)](https://github.com/suzkiee/battleship)<br/>
+[![](https://img.shields.io/badge/-🔐%20Enigma-000?style=plastic)](https://github.com/mkrumholz/Enigma)<br/>
+[![](https://img.shields.io/badge/-📉%20Black%20Thursday-000?style=plastic)](https://github.com/redferret/black_thursday)<br/>
+[![](https://img.shields.io/badge/-🌷%20Rails%20Garden-000?style=plastic)](https://github.com/mkrumholz/relational_rails)<br/>
   
 ## Connect With Me
 
