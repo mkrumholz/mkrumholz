@@ -41,7 +41,7 @@ Ask me about thruhiking 🎒, ultra-running 🏃🏻‍♀️‍, climbing 🧗�
 
 ## Projects
 
-[![](https://img.shields.io/badge/-🛍%20Little%20Rails%20Shop-000?style=plastic)](https://github.com/LawrenceWhalen/little-esty-shop)<br/>
+[![](https://img.shields.io/badge/-🛍%20Little%20Shop%20of%20Rails-000?style=plastic)](https://github.com/mkrumholz/little-shop-of-rails)<br/>
 [![](https://img.shields.io/badge/-🕹%20Battleship-000?style=plastic)](https://github.com/suzkiee/battleship)<br/>
 [![](https://img.shields.io/badge/-🔐%20Enigma-000?style=plastic)](https://github.com/mkrumholz/Enigma)<br/>
 [![](https://img.shields.io/badge/-📉%20Black%20Thursday-000?style=plastic)](https://github.com/redferret/black_thursday)<br/>
