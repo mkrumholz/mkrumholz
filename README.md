@@ -11,12 +11,12 @@ Ask me about thruhiking 🎒, ultra-running 🏃🏻‍♀️‍, climbing 🧗�
 ## Stats
 <section align="center">
   <div>
-    <a href="https://github.com/dietza/github-readme-stats">
+    <a href="https://github.com/mkrumholz/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=mkrumholz&show_icons=true&theme=algolia" align="center" height="200" width="500" />
     </a>
   </div><br/>
   <div>
-    <a href="https://github.com/dietza/github-readme-stats">
+    <a href="https://github.com/mkrumholz/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkrumholz&layout=compact&theme=algolia" align="center" />
     </a>
   </div>
