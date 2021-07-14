@@ -1,6 +1,6 @@
 # Molly Krumholz (she/her)
 
-I'm a backend developer with a background in data analysis and process automation. My goal is to build mission-driven software that makes the world a smarter place.
+I'm a backend developer with a background in data analysis and process automation. My goal is to build mission-driven software that makes the world smarter. I enjoy clear error messages, behavior-driven design, and MySQL (because it was my first coding love). 
 
 Ask me about thruhiking 🎒, ultra-running 🏃🏻‍♀️‍, climbing 🧗🏼‍♀️, splitboarding 🏂, cycling 🚴🏼‍♀️, gardening 🌱, or craft cocktail bitters 🥃. 
 
