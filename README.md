@@ -4,6 +4,13 @@ I'm a backend developer with a background in data analysis and process automatio
 
 Ask me about thruhiking 🎒, ultra-running 🏃🏻‍♀️‍, climbing 🧗🏼‍♀️, splitboarding 🏂, cycling 🚴🏼‍♀️, gardening 🌱, or craft cocktail bitters 🥃. 
 
+## Connect With Me
+
+<section align="left">
+  <a href="https://www.linkedin.com/in/mkrumholz/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
+  <a href="mailto:krumholz.molly@gmail.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
+</section>
+
 <!--
 **mkrumholz/mkrumholz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -41,15 +48,21 @@ Ask me about thruhiking 🎒, ultra-running 🏃🏻‍♀️‍, climbing 🧗�
 
 ## Projects
 
-[![](https://img.shields.io/badge/-🛍%20Little%20Shop%20of%20Rails-000?style=plastic)](https://github.com/mkrumholz/little-shop-of-rails)<br/>
-[![](https://img.shields.io/badge/-🕹%20Battleship-000?style=plastic)](https://github.com/suzkiee/battleship)<br/>
-[![](https://img.shields.io/badge/-🔐%20Enigma-000?style=plastic)](https://github.com/mkrumholz/Enigma)<br/>
-[![](https://img.shields.io/badge/-📉%20Black%20Thursday-000?style=plastic)](https://github.com/redferret/black_thursday)<br/>
-[![](https://img.shields.io/badge/-🌷%20Rails%20Garden-000?style=plastic)](https://github.com/mkrumholz/relational_rails)<br/>
-  
-## Connect With Me
-
-<section align="left">
-  <a href="https://www.linkedin.com/in/mkrumholz/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
-  <a href="mailto:krumholz.molly@gmail.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
-</section>
+<section>
+  <div>
+    <a href="https://github.com/mkrumholz/little-shop-of-rails">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkrumholz&repo=little-shop-of-rails&theme=algolia" align="center" height="200" width="400"/>
+    </a>
+    <a href="https://github.com/mkrumholz/viewing_party">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkrumholz&repo=viewing_party&theme=algolia" align="center" height="200" width="400"/>
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/mkrumholz/Enigma">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkrumholz&repo=Enigma&theme=algolia" align="center" height="200" width="400"/>
+    </a>
+    <a href="https://github.com/suzkiee/battleship">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=suzkiee&repo=battleship&theme=algolia" align="center" height="200" width="400"/>
+    </a>
+  </div>
+</section><br/>
