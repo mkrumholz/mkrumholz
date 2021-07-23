@@ -61,8 +61,8 @@ Ask me about thruhiking 🎒, ultra-running 🏃🏻‍♀️‍, climbing 🧗�
     <a href="https://github.com/mkrumholz/Enigma">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkrumholz&repo=Enigma&theme=algolia" align="center" height="200" width="400"/>
     </a>
-    <a href="https://github.com/suzkiee/battleship">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=suzkiee&repo=battleship&theme=algolia" align="center" height="200" width="400"/>
+    <a href="https://github.com/mkrumholz/battleship">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?mkrumholz=suzkiee&repo=battleship&theme=algolia" align="center" height="200" width="400"/>
     </a>
   </div>
 </section><br/>
