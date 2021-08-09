@@ -50,19 +50,19 @@ Ask me about thruhiking 🎒, ultra-running 🏃🏻‍♀️‍, climbing 🧗�
 
 <section>
   <div>
-    <a href="https://github.com/mkrumholz/little-shop-of-rails">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkrumholz&repo=little-shop-of-rails&theme=algolia" align="center" height="200" width="400"/>
+    <a href="https://github.com/mkrumholz/rails-engine">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkrumholz&repo=rails-engine&theme=algolia" align="center" height="200" width="400"/>
     </a>
     <a href="https://github.com/mkrumholz/viewing_party">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkrumholz&repo=viewing_party&theme=algolia" align="center" height="200" width="400"/>
     </a>
   </div>
   <div>
+    <a href="https://github.com/mkrumholz/little-shop-of-rails">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkrumholz&repo=little-shop-of-rails&theme=algolia" align="center" height="200" width="400"/>
+    </a>
     <a href="https://github.com/mkrumholz/Enigma">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkrumholz&repo=Enigma&theme=algolia" align="center" height="200" width="400"/>
-    </a>
-    <a href="https://github.com/mkrumholz/rails-engine">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkrumholz&repo=rails-engine&theme=algolia" align="center" height="200" width="400"/>
     </a>
   </div>
 </section><br/>
