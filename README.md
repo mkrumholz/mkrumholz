@@ -1,8 +1,8 @@
 # Molly Krumholz (she/her)
 
-I'm a backend developer who cares about strong commnunities and lives for exploring in nature. I love to build sytems that are elegant and secure, and also just a delight for other developers to work in. Ruby is my home base because its a language that centers its human community without shying away from the challenges of growth and innovation.
+I'm a backend developer who cares about strong commnunities and lives for exploring in nature. I love to build sytems that are elegant and secure, and also just a delight for other developers. Ruby is my home base because its a language that centers its human community without shying away from the challenges of growth and innovation. However, a core part of this job (and if you ask me, one of the best parts) is living in a constant state of curiosity. Your unsolved problems are also your finest opportunities.
 
-Ask me about thruhiking 🎒, ultra-running 🏃🏻‍♀️‍, climbing 🧗🏼‍♀️, splitboarding 🏂, cycling 🚴🏼‍♀️, gardening 🌱, and baking 🥐. 
+You can also ask me about thruhiking 🎒, ultra-running 🏃🏻‍♀️‍, climbing 🧗🏼‍♀️, splitboarding 🏂, cycling 🚴🏼‍♀️, gardening 🌱, and baking 🥐.
 
 ## Connect With Me
 
